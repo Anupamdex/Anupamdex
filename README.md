@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anupamdex
+- 👋 Hi, Insta @Anupam_dex
 - 👀 I’m interested in ... Block chain and data security
 - 🌱 I’m currently learning ...to learn data encryption
 - 💞️ I’m looking to collaborate on ...
